@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment
+.env
+.env.local
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Database
+*.sqlite3
+*.db
+
+# Readings folder (except test files)
+Readings/*
+!Readings/test.pdf
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Replit
+.upm/
+.work-folder-info
+.replit
+replit.nix
+pyproject.toml
+uv.lock
+.cache/
+
+# Misc
+.DS_Store
+.coverage
+htmlcov/
+
+# Update files
+assets/update.md
+assets/codeideas.md

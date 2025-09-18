@@ -1,0 +1,19 @@
+[server]
+port = 5000
+headless = true
+address = "0.0.0.0"
+
+[theme]
+primaryColor = "#841617"
+backgroundColor = "#F0ECE2"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#000000"
+
+[browser]
+gatherUsageStats = true
+
+[client]
+toolbarMode = "minimal"
+
+[ui]
+hideTopBar = true
